@@ -1,4 +1,5 @@
-<!-- Assignment Code
+# Password Generator: How to use it:
+Assignment Code
 Write password to the #password input
 Create generatePassword function
 Generate a password here!
@@ -14,4 +15,10 @@ If the password contains numbers, finalpool will combine with numbers
 If the password contains specialpool, finalpool will combine with specialPool
 For loop - loop as many as myLength, and for each loop we add a random character
 Return the generated password
-Add event listener to generate button -->
+Add event listener to generate button
+
+## Link to Github Repo
+https://github.com/Cumar-khalif/password-generator
+
+## Link to Live Page
+https://cumar-khalif.github.io/password-generator/
