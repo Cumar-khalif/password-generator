@@ -1,6 +1,6 @@
 # Password Generator: How to use it:
-Assignment Code
-Write password to the #password input
+1. Assignment Code
+2. Write password to the #password input
 Create generatePassword function
 Generate a password here!
 Console.log(myLength);
